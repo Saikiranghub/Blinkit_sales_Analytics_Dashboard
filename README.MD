@@ -36,7 +36,7 @@ The dashboard helps in understanding revenue trends, customer behavior, and cate
 ---
 
 ## Dashboard Preview
-![Dashboard overview](Grocery overview.png)
+Dashboard overview Grocery overview.png
 
 ---
 
